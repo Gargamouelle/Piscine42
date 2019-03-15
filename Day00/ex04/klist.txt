@@ -1,0 +1,6 @@
+# Premièrement, si t'as courru au tabac en face pour acheter des tickets Kerberos ! Bravo !..
+Ce que c'est beau l'innocence de nos jours...
+# Bref, plus sérieusement, deuxièmement : "kinit [tonlogin]"
+# Troisièmement "klist"
+# Pour une fois même pas besoin de google t'as toute les clés en main !
+# P.S : Si tu ne comprends toujours pas ce que c'est "kinit", "klist" -> commande Shell 

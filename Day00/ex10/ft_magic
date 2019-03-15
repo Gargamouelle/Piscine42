@@ -1,0 +1,5 @@
+# "41" parce que l'on parle de 42 octets
+# "string 42" string = chaîne de caractères (très utile pour la suite des days)
+# "42 file" l'on demande un type de file.
+# CONSEIL : Prend le temps de consulter les man sur "file" et "magic file" sur google. Tu y
+apprendras pleins de choses très constructives ! #
